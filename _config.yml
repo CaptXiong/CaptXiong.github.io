@@ -22,7 +22,7 @@ url: 'https://captxiong.github.io/'
 
 author: Spike Xiong                  # change to your full name
 
-avatar: https://github.com/CaptXiong/images/blob/master/img/spike.jpg   # support internet resources
+avatar: assets\img\sample\spike.jpg   # support internet resources
 
 github:
   username: captxiong             # change to your github username
