@@ -10,7 +10,7 @@
 
 title: SpikeXiong                          # the main title
 
-tagline: CodeCowboy.  # it will display as the sub-title
+tagline: See you, CodeCowboy!  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Hello, I 'm Spike Xiong, a python developer.
@@ -22,7 +22,7 @@ url: 'https://captxiong.github.io/'
 
 author: Spike Xiong                  # change to your full name
 
-avatar: assets\img\sample\spike.jpg   # support internet resources
+avatar: /assets/img/sample/spike.jpg   # support internet resources
 
 github:
   username: captxiong             # change to your github username
