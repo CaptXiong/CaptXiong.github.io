@@ -8,7 +8,9 @@ title: About
 # MIT License
 ---
 
-> #### Hello! I'm Spike, a developer from China. 
-> #### I' ve made some programs, including web crawls, NLP functions(classification, sentiment analysis, question-answering dialogue system).
->
-> #### I'm glad to share some ideas about the coding things, trading and daily life stuff.
+### Hi there 👋
+
+- 🔭 I’m a mundane ML engineer and also a crypto player: SpikeX1989.cosmos.
+- 🌱 I’m currently learning React.
+- 👯 I’m looking to collaborate on Web3 or AI projects, frontend and backend with Python, JS or go...
+- 🥳 Fun fact: I got my English name Spike from Space Cowboy, and the Bio "Sic Parvis Magna" from Uncharted.
